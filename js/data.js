@@ -50,8 +50,8 @@ window.siteData = {
         "Benchmarks & Evaluation for KG-LLM Systems"
     ],
     dates: [
-        { title: "Paper Submission", date: "TBA", desc: "Check WCCI website for updates", icon: "FileText", color: "blue" },
-        { title: "Notification", date: "TBA", desc: "Acceptance/Rejection notification", icon: "Mail", color: "purple" },
+        { title: "Paper Submission", date: "January 31, 2026, 23:59 AoE time", desc: "Check <a href='https://attend.ieee.org/wcci-2026/important-dates-deadlines/' target='_blank' rel='noopener noreferrer' class='text-blue-600 underline hover:text-blue-800'>WCCI website</a> for updates", icon: "FileText", color: "blue" },
+        { title: "Notification", date: "15 March", desc: "Acceptance notification", icon: "Mail", color: "purple" },
         { title: "Conference", date: "June 21-26, 2026", desc: "MECC Maastricht, Netherlands", icon: "Calendar", color: "indigo" }
     ],
     organizers: [

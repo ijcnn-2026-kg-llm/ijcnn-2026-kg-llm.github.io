@@ -372,7 +372,7 @@
                                                </div>
                                                <h3 className="text-lg font-semibold text-slate-600 mb-2">{item.title}</h3>
                                                <p className="text-3xl font-bold text-slate-900 mb-2">{item.date}</p>
-                                               <p className="text-sm text-slate-400">{item.desc}</p>
+                                               <p className="text-sm text-slate-400" dangerouslySetInnerHTML={{__html: item.desc}}></p>
                                            </div>
                                        );
                                    })}
